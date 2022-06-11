@@ -6,4 +6,4 @@ Follow GPL3 for non-commercial use
 
 sns @rin_sns_
 
-site rintya.net
+site https://rintya.net
