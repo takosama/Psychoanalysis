@@ -5,4 +5,5 @@ Commercial use is possible, but I would be grateful if you could contact me.
 Follow GPL3 for non-commercial use
 
 sns @rin_sns_
+
 site rintya.net
