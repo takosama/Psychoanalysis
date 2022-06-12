@@ -6,4 +6,4 @@ Follow GPL3 for non-commercial use
 
 sns @PbxlP   @rin_sns_ 
 
-site https://rintya.net
+site https://shinen-tai-kousatsu.blogspot.com/
